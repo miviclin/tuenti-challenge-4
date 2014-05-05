@@ -2,6 +2,14 @@ package com.miviclin.tuentichallenge4.challenge08;
 
 import java.util.Arrays;
 
+/**
+ * 
+ * Tuenti Challenge 2014<br>
+ * Challenge 8 - Tuenti Restructuration
+ * 
+ * @author Miguel Vicente Linares
+ * 
+ */
 public final class State {
 
 	public static final int NUM_ROWS = 3;

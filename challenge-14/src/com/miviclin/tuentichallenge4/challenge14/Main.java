@@ -3,6 +3,14 @@ package com.miviclin.tuentichallenge4.challenge14;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
+/**
+ * 
+ * Tuenti Challenge 2014<br>
+ * Challenge 14 - Train Empire
+ * 
+ * @author Miguel Vicente Linares
+ * 
+ */
 public class Main {
 
 	public static void main(String[] args) {
@@ -53,7 +61,7 @@ public class Main {
 					}
 					scenario.addRoute(route);
 				}
-				
+
 				int maxScore = scenario.calculateMaxScore();
 				System.out.println(maxScore);
 			}

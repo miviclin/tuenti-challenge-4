@@ -7,6 +7,14 @@ import java.util.LinkedList;
 import java.util.Map;
 import java.util.PriorityQueue;
 
+/**
+ * 
+ * Tuenti Challenge 2014<br>
+ * Challenge 8 - Tuenti Restructuration
+ * 
+ * @author Miguel Vicente Linares
+ * 
+ */
 public class TableRestucturationSolver {
 
 	public int findMinimumNumberOfMoves(String[][] initialStateData, String[][] goalStateData) {

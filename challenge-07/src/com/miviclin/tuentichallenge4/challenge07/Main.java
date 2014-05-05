@@ -3,6 +3,14 @@ package com.miviclin.tuentichallenge4.challenge07;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
+/**
+ * 
+ * Tuenti Challenge 2014<br>
+ * Challenge 7 - Yes we scan
+ * 
+ * @author Miguel Vicente Linares
+ * 
+ */
 public class Main {
 
 	public static void main(String[] args) {

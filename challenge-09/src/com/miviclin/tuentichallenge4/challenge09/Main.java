@@ -4,6 +4,14 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 
+/**
+ * 
+ * Tuenti Challenge 2014<br>
+ * Challenge 9 - Bendito Caos
+ * 
+ * @author Miguel Vicente Linares
+ * 
+ */
 public class Main {
 
 	private static final String AWESOMEVILLE_NAME = "AwesomeVille";

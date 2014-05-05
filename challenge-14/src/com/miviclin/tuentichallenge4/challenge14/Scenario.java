@@ -8,6 +8,14 @@ import java.util.Map;
 import java.util.Map.Entry;
 import java.util.Set;
 
+/**
+ * 
+ * Tuenti Challenge 2014<br>
+ * Challenge 14 - Train Empire
+ * 
+ * @author Miguel Vicente Linares
+ * 
+ */
 public class Scenario {
 
 	private FuelLossCalculator fuelLossCalculator;

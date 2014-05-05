@@ -1,5 +1,13 @@
 package com.miviclin.tuentichallenge4.challenge05;
 
+/**
+ * 
+ * Tuenti Challenge 2014<br>
+ * Challenge 5 - Tribblemaker
+ * 
+ * @author Miguel Vicente Linares
+ * 
+ */
 public class LoopInfo {
 
 	private int firstGenerationIndex;

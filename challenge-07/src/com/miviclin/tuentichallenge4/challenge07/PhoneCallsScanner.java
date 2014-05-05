@@ -10,6 +10,14 @@ import java.util.List;
 import java.util.Map;
 import java.util.Set;
 
+/**
+ * 
+ * Tuenti Challenge 2014<br>
+ * Challenge 7 - Yes we scan
+ * 
+ * @author Miguel Vicente Linares
+ * 
+ */
 public class PhoneCallsScanner {
 
 	private static final String MSG_NOT_CONNECTED = "Not connected";
@@ -69,7 +77,7 @@ public class PhoneCallsScanner {
 		if (firstPhoneCallIndex < 0) {
 			return -1;
 		}
-		
+
 		if (isPhoneCallBetweenPersonsAtIndex(firstPhoneCallIndex, person1, person2)) {
 			return firstPhoneCallIndex;
 		}

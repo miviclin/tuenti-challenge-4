@@ -4,6 +4,14 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
+/**
+ * 
+ * Tuenti Challenge 2014<br>
+ * Challenge 8 - Tuenti Restructuration
+ * 
+ * @author Miguel Vicente Linares
+ * 
+ */
 public class Main {
 
 	public static void main(String[] args) {

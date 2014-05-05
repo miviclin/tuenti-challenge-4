@@ -3,6 +3,14 @@ package com.miviclin.tuentichallenge4.challenge05;
 import java.util.ArrayList;
 import java.util.Set;
 
+/**
+ * 
+ * Tuenti Challenge 2014<br>
+ * Challenge 5 - Tribblemaker
+ * 
+ * @author Miguel Vicente Linares
+ * 
+ */
 public class GameOfTribbleLife {
 
 	private Set<Integer> rulesCellIsBorn;

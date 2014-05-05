@@ -5,6 +5,14 @@ import java.io.InputStreamReader;
 import java.util.HashSet;
 import java.util.Set;
 
+/**
+ * 
+ * Tuenti Challenge 2014<br>
+ * Challenge 5 - Tribblemaker
+ * 
+ * @author Miguel Vicente Linares
+ * 
+ */
 public class Main {
 
 	private static final int NUM_GRID_ROWS = 8;

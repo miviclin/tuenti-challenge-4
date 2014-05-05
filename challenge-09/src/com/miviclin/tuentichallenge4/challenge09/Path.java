@@ -3,6 +3,14 @@ package com.miviclin.tuentichallenge4.challenge09;
 import java.util.ArrayList;
 import java.util.Collections;
 
+/**
+ * 
+ * Tuenti Challenge 2014<br>
+ * Challenge 9 - Bendito Caos
+ * 
+ * @author Miguel Vicente Linares
+ * 
+ */
 public class Path<T> {
 
 	private ArrayList<Edge<T>> edges;

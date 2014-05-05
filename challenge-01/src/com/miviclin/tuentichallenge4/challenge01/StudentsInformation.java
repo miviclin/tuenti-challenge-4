@@ -6,6 +6,14 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashMap;
 
+/**
+ * 
+ * Tuenti Challenge 2014<br>
+ * Challenge 1 - Anonymous Poll
+ * 
+ * @author Miguel Vicente Linares
+ * 
+ */
 public class StudentsInformation {
 
 	private static final String MSG_NO_MATCH_FOUND = "NONE";

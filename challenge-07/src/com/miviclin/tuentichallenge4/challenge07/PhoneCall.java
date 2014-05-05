@@ -1,5 +1,13 @@
 package com.miviclin.tuentichallenge4.challenge07;
 
+/**
+ * 
+ * Tuenti Challenge 2014<br>
+ * Challenge 7 - Yes we scan
+ * 
+ * @author Miguel Vicente Linares
+ * 
+ */
 public class PhoneCall {
 
 	private int person1;

@@ -1,5 +1,13 @@
 package com.miviclin.tuentichallenge4.challenge02;
 
+/**
+ * 
+ * Tuenti Challenge 2014<br>
+ * Challenge 2 - F1 - Bird's-eye Circuit
+ * 
+ * @author Miguel Vicente Linares
+ * 
+ */
 public class PrettyTrackBuilder {
 
 	public static final char START_FINISH_LINE = '#';

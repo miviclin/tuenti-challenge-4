@@ -5,6 +5,14 @@ import java.util.Comparator;
 import java.util.LinkedList;
 import java.util.PriorityQueue;
 
+/**
+ * 
+ * Tuenti Challenge 2014<br>
+ * Challenge 12 - Taxi Driver
+ * 
+ * @author Miguel Vicente Linares
+ * 
+ */
 public class ShortestPathCalculator {
 
 	public int calculateShortestPathLength(CityMap cityMap) {

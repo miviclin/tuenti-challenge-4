@@ -4,6 +4,14 @@ import java.text.DecimalFormat;
 import java.text.DecimalFormatSymbols;
 import java.util.Locale;
 
+/**
+ * 
+ * Tuenti Challenge 2014<br>
+ * Challenge 3 - The Gambler’s Club - Monkey Island 2
+ * 
+ * @author Miguel Vicente Linares
+ * 
+ */
 public class PasswordGenerator {
 
 	private DecimalFormat decimalFormat;

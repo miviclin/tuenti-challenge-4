@@ -6,6 +6,14 @@ import java.util.List;
 import java.util.Map;
 import java.util.Map.Entry;
 
+/**
+ * 
+ * Tuenti Challenge 2014<br>
+ * Challenge 9 - Bendito Caos
+ * 
+ * @author Miguel Vicente Linares
+ * 
+ */
 public class CarsCalculator {
 
 	private static final int METERS_PER_KILOMETER = 1000;

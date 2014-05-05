@@ -5,6 +5,14 @@ import java.io.InputStreamReader;
 import java.util.HashSet;
 import java.util.Set;
 
+/**
+ * 
+ * Tuenti Challenge 2014<br>
+ * Challenge 4 - Shape shifters
+ * 
+ * @author Miguel Vicente Linares
+ * 
+ */
 public class Main {
 
 	public static void main(String[] args) {

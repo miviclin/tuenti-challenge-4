@@ -5,6 +5,14 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Set;
 
+/**
+ * 
+ * Tuenti Challenge 2014<br>
+ * Challenge 4 - Shape shifters
+ * 
+ * @author Miguel Vicente Linares
+ * 
+ */
 public class DnaMutator {
 
 	private static final int MAX_MUTATIONS_PER_TRANSITION = 1;

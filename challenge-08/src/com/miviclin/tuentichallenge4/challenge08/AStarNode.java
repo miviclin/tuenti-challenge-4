@@ -3,6 +3,14 @@ package com.miviclin.tuentichallenge4.challenge08;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * 
+ * Tuenti Challenge 2014<br>
+ * Challenge 8 - Tuenti Restructuration
+ * 
+ * @author Miguel Vicente Linares
+ * 
+ */
 public class AStarNode<T> {
 
 	private T value;

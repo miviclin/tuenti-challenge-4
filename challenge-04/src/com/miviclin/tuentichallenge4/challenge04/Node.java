@@ -1,5 +1,13 @@
 package com.miviclin.tuentichallenge4.challenge04;
 
+/**
+ * 
+ * Tuenti Challenge 2014<br>
+ * Challenge 4 - Shape shifters
+ * 
+ * @author Miguel Vicente Linares
+ * 
+ */
 public class Node<T> {
 
 	private Node<T> parent;

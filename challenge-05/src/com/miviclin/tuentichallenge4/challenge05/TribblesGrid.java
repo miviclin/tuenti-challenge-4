@@ -2,6 +2,14 @@ package com.miviclin.tuentichallenge4.challenge05;
 
 import java.util.Arrays;
 
+/**
+ * 
+ * Tuenti Challenge 2014<br>
+ * Challenge 5 - Tribblemaker
+ * 
+ * @author Miguel Vicente Linares
+ * 
+ */
 public class TribblesGrid {
 
 	public static final char VACANT_CELL_SYMBOL = '-';

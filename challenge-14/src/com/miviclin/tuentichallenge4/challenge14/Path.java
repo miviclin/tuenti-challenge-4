@@ -3,6 +3,14 @@ package com.miviclin.tuentichallenge4.challenge14;
 import java.util.ArrayList;
 import java.util.Collections;
 
+/**
+ * 
+ * Tuenti Challenge 2014<br>
+ * Challenge 14 - Train Empire
+ * 
+ * @author Miguel Vicente Linares
+ * 
+ */
 public class Path<T> {
 
 	private ArrayList<T> elements;

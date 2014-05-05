@@ -2,6 +2,14 @@ package com.miviclin.tuentichallenge4.challenge09;
 
 import java.util.ArrayList;
 
+/**
+ * 
+ * Tuenti Challenge 2014<br>
+ * Challenge 9 - Bendito Caos
+ * 
+ * @author Miguel Vicente Linares
+ * 
+ */
 public class PathFinder<T> {
 
 	public ArrayList<Path<T>> findAllPaths(Node<T> sourceNode, Node<T> goalNode) {

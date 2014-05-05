@@ -3,6 +3,14 @@ package com.miviclin.tuentichallenge4.challenge03;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
+/**
+ * 
+ * Tuenti Challenge 2014<br>
+ * Challenge 3 - The Gambler’s Club - Monkey Island 2
+ * 
+ * @author Miguel Vicente Linares
+ * 
+ */
 public class Main {
 
 	public static void main(String[] args) {

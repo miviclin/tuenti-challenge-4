@@ -2,6 +2,14 @@ package com.miviclin.tuentichallenge4.challenge04;
 
 import java.util.ArrayList;
 
+/**
+ * 
+ * Tuenti Challenge 2014<br>
+ * Challenge 4 - Shape shifters
+ * 
+ * @author Miguel Vicente Linares
+ * 
+ */
 @SuppressWarnings("serial")
 public class DnaTransitionList extends ArrayList<DnaState> {
 

@@ -2,6 +2,14 @@ package com.miviclin.tuentichallenge4.challenge14;
 
 import java.util.ArrayList;
 
+/**
+ * 
+ * Tuenti Challenge 2014<br>
+ * Challenge 14 - Train Empire
+ * 
+ * @author Miguel Vicente Linares
+ * 
+ */
 public class PathFinder<T> {
 
 	public ArrayList<Path<T>> findAllPaths(Node<T> sourceNode, int maxEnergy,
