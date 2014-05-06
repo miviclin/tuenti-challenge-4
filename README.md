@@ -21,4 +21,4 @@ These are my solutions for some of the [challenges of the contest](https://conte
 
 ### Notes
 - **Challenge 08:** Tuenti Restructuration 
--- _Not all tests pass. I ended up skipping this one._
+ - _Not all tests pass. I ended up skipping this one._
