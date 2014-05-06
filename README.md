@@ -22,3 +22,7 @@ These are my solutions for some of the [challenges of the contest](https://conte
 ### Notes
 - **Challenge 08:** Tuenti Restructuration 
  - _Not all tests pass. I ended up skipping this one._
+
+### Ranking
+
+I was ranked #59 out of almost 2000 contestants in the first round.
